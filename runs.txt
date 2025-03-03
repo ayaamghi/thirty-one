@@ -1,0 +1,291 @@
+Round 1
+Player{Oscar, score=8, lives=3} has 3 lives and 8 points with hand [SEVEN of DIAMONDS, EIGHT of HEARTS, THREE of SPADES]
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [KING of HEARTS, TWO of SPADES, TEN of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [KING of DIAMONDS, THREE of CLUBS, SIX of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Heidi, score=7, lives=3} has 3 lives and 7 points with hand [THREE of DIAMONDS, FIVE of HEARTS, TWO of HEARTS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [QUEEN of HEARTS, QUEEN of SPADES, JACK of CLUBS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [SIX of DIAMONDS, FIVE of CLUBS, TEN of HEARTS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [FOUR of DIAMONDS, KING of SPADES, FOUR of HEARTS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [SEVEN of HEARTS, EIGHT of SPADES, KING of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [NINE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS]
+Player{Bob, score=8, lives=3} has 3 lives and 8 points with hand [SIX of SPADES, EIGHT of DIAMONDS, TWO of CLUBS]
+Player Player{Oscar, score=8, lives=3} knocks
+-------------------------------------------------
+Round 2
+Player{Oscar, score=8, lives=3} has 3 lives and 8 points with hand [EIGHT of HEARTS, THREE of SPADES, SEVEN of DIAMONDS]
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TWO of SPADES, TEN of SPADES, KING of HEARTS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [THREE of CLUBS, SIX of CLUBS, KING of DIAMONDS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Heidi, score=7, lives=2} has 2 lives and 7 points with hand [FIVE of HEARTS, TWO of HEARTS, THREE of DIAMONDS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [QUEEN of SPADES, JACK of CLUBS, QUEEN of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [FIVE of CLUBS, TEN of HEARTS, SIX of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [KING of SPADES, FOUR of HEARTS, FOUR of DIAMONDS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [EIGHT of SPADES, KING of CLUBS, SEVEN of HEARTS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [FIVE of DIAMONDS, ACE of HEARTS, NINE of CLUBS]
+Player{Bob, score=8, lives=3} has 3 lives and 8 points with hand [EIGHT of DIAMONDS, TWO of CLUBS, SIX of SPADES]
+Player Player{Oscar, score=8, lives=3} knocks
+-------------------------------------------------
+Round 3
+Player{Oscar, score=8, lives=3} has 3 lives and 8 points with hand [THREE of SPADES, SEVEN of DIAMONDS, EIGHT of HEARTS]
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TEN of SPADES, KING of HEARTS, TWO of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [SIX of CLUBS, KING of DIAMONDS, THREE of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Heidi, score=7, lives=1} has 1 lives and 7 points with hand [TWO of HEARTS, THREE of DIAMONDS, FIVE of HEARTS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [JACK of CLUBS, QUEEN of HEARTS, QUEEN of SPADES]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [TEN of HEARTS, SIX of DIAMONDS, FIVE of CLUBS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [KING of CLUBS, SEVEN of HEARTS, EIGHT of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [ACE of HEARTS, NINE of CLUBS, FIVE of DIAMONDS]
+Player{Bob, score=8, lives=3} has 3 lives and 8 points with hand [TWO of CLUBS, SIX of SPADES, EIGHT of DIAMONDS]
+Player Player{Oscar, score=8, lives=3} knocks
+-------------------------------------------------
+Round 4
+Player{Oscar, score=8, lives=3} has 3 lives and 8 points with hand [SEVEN of DIAMONDS, EIGHT of HEARTS, THREE of SPADES]
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [KING of HEARTS, TWO of SPADES, TEN of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [KING of DIAMONDS, THREE of CLUBS, SIX of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [QUEEN of HEARTS, QUEEN of SPADES, JACK of CLUBS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [SIX of DIAMONDS, FIVE of CLUBS, TEN of HEARTS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [FOUR of DIAMONDS, KING of SPADES, FOUR of HEARTS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [SEVEN of HEARTS, EIGHT of SPADES, KING of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [NINE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS]
+Player{Bob, score=8, lives=3} has 3 lives and 8 points with hand [SIX of SPADES, EIGHT of DIAMONDS, TWO of CLUBS]
+Player Player{Oscar, score=8, lives=3} knocks
+-------------------------------------------------
+Round 5
+Player{Oscar, score=8, lives=1} has 1 lives and 8 points with hand [EIGHT of HEARTS, THREE of SPADES, SEVEN of DIAMONDS]
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TWO of SPADES, TEN of SPADES, KING of HEARTS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [THREE of CLUBS, SIX of CLUBS, KING of DIAMONDS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [QUEEN of SPADES, JACK of CLUBS, QUEEN of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [FIVE of CLUBS, TEN of HEARTS, SIX of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [KING of SPADES, FOUR of HEARTS, FOUR of DIAMONDS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [EIGHT of SPADES, KING of CLUBS, SEVEN of HEARTS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [FIVE of DIAMONDS, ACE of HEARTS, NINE of CLUBS]
+Player{Bob, score=8, lives=2} has 2 lives and 8 points with hand [EIGHT of DIAMONDS, TWO of CLUBS, SIX of SPADES]
+Player Player{Oscar, score=8, lives=1} knocks
+-------------------------------------------------
+Round 6
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TEN of SPADES, KING of HEARTS, TWO of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [SIX of CLUBS, KING of DIAMONDS, THREE of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [JACK of CLUBS, QUEEN of HEARTS, QUEEN of SPADES]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [TEN of HEARTS, SIX of DIAMONDS, FIVE of CLUBS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [KING of CLUBS, SEVEN of HEARTS, EIGHT of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [ACE of HEARTS, NINE of CLUBS, FIVE of DIAMONDS]
+Player{Bob, score=8, lives=1} has 1 lives and 8 points with hand [TWO of CLUBS, SIX of SPADES, EIGHT of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 7
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [KING of HEARTS, TWO of SPADES, TEN of SPADES]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [KING of DIAMONDS, THREE of CLUBS, SIX of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Oscar, score=10, lives=3} has 3 lives and 10 points with hand [QUEEN of HEARTS, QUEEN of SPADES, JACK of CLUBS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Eve, score=10, lives=3} has 3 lives and 10 points with hand [SIX of DIAMONDS, FIVE of CLUBS, TEN of HEARTS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Ivan, score=10, lives=3} has 3 lives and 10 points with hand [FOUR of DIAMONDS, KING of SPADES, FOUR of HEARTS]
+Player{Peggy, score=10, lives=3} has 3 lives and 10 points with hand [SEVEN of HEARTS, EIGHT of SPADES, KING of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [NINE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 8
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TWO of SPADES, TEN of SPADES, KING of HEARTS]
+Player{Peggy, score=10, lives=2} has 2 lives and 10 points with hand [THREE of CLUBS, SIX of CLUBS, KING of DIAMONDS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Oscar, score=10, lives=2} has 2 lives and 10 points with hand [QUEEN of SPADES, JACK of CLUBS, QUEEN of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Eve, score=10, lives=2} has 2 lives and 10 points with hand [FIVE of CLUBS, TEN of HEARTS, SIX of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Ivan, score=10, lives=2} has 2 lives and 10 points with hand [KING of SPADES, FOUR of HEARTS, FOUR of DIAMONDS]
+Player{Peggy, score=10, lives=2} has 2 lives and 10 points with hand [EIGHT of SPADES, KING of CLUBS, SEVEN of HEARTS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [FIVE of DIAMONDS, ACE of HEARTS, NINE of CLUBS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 9
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TEN of SPADES, KING of HEARTS, TWO of SPADES]
+Player{Peggy, score=10, lives=1} has 1 lives and 10 points with hand [SIX of CLUBS, KING of DIAMONDS, THREE of CLUBS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Oscar, score=10, lives=1} has 1 lives and 10 points with hand [JACK of CLUBS, QUEEN of HEARTS, QUEEN of SPADES]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Eve, score=10, lives=1} has 1 lives and 10 points with hand [TEN of HEARTS, SIX of DIAMONDS, FIVE of CLUBS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Ivan, score=10, lives=1} has 1 lives and 10 points with hand [FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES]
+Player{Peggy, score=10, lives=1} has 1 lives and 10 points with hand [KING of CLUBS, SEVEN of HEARTS, EIGHT of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [ACE of HEARTS, NINE of CLUBS, FIVE of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 10
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [KING of HEARTS, TWO of SPADES, TEN of SPADES]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player{Sue, score=11, lives=3} has 3 lives and 11 points with hand [NINE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 11
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TWO of SPADES, TEN of SPADES, KING of HEARTS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player{Sue, score=11, lives=2} has 2 lives and 11 points with hand [FIVE of DIAMONDS, ACE of HEARTS, NINE of CLUBS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 12
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [TEN of SPADES, KING of HEARTS, TWO of SPADES]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player{Sue, score=11, lives=1} has 1 lives and 11 points with hand [ACE of HEARTS, NINE of CLUBS, FIVE of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 13
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{David, score=12, lives=3} has 3 lives and 12 points with hand [KING of HEARTS, TWO of SPADES, TEN of SPADES]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 14
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{David, score=12, lives=2} has 2 lives and 12 points with hand [TWO of SPADES, TEN of SPADES, KING of HEARTS]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 15
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{David, score=12, lives=1} has 1 lives and 12 points with hand [TEN of SPADES, KING of HEARTS, TWO of SPADES]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 16
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{Walter, score=15, lives=3} has 3 lives and 15 points with hand [SIX of HEARTS, NINE of HEARTS, TWO of DIAMONDS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Heidi, score=15, lives=3} has 3 lives and 15 points with hand [ACE of CLUBS, JACK of HEARTS, FOUR of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 17
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{Walter, score=15, lives=2} has 2 lives and 15 points with hand [NINE of HEARTS, TWO of DIAMONDS, SIX of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Heidi, score=15, lives=2} has 2 lives and 15 points with hand [JACK of HEARTS, FOUR of CLUBS, ACE of CLUBS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 18
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [JACK of SPADES, SEVEN of CLUBS, QUEEN of CLUBS]
+Player{Walter, score=15, lives=1} has 1 lives and 15 points with hand [TWO of DIAMONDS, SIX of HEARTS, NINE of HEARTS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Heidi, score=15, lives=1} has 1 lives and 15 points with hand [FOUR of CLUBS, ACE of CLUBS, JACK of HEARTS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 19
+Player{Zelda, score=17, lives=3} has 3 lives and 17 points with hand [SEVEN of CLUBS, QUEEN of CLUBS, JACK of SPADES]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player Player{Zelda, score=17, lives=3} knocks
+-------------------------------------------------
+Round 20
+Player{Zelda, score=17, lives=1} has 1 lives and 17 points with hand [QUEEN of CLUBS, JACK of SPADES, SEVEN of CLUBS]
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player Player{Zelda, score=17, lives=1} knocks
+-------------------------------------------------
+Round 21
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Trent, score=18, lives=3} has 3 lives and 18 points with hand [ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player Player{Grace, score=20, lives=3} knocks
+-------------------------------------------------
+Round 22
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Trent, score=18, lives=2} has 2 lives and 18 points with hand [EIGHT of CLUBS, TEN of CLUBS, ACE of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player Player{Grace, score=20, lives=3} knocks
+-------------------------------------------------
+Round 23
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [SEVEN of SPADES, TEN of DIAMONDS, QUEEN of DIAMONDS]
+Player{Trent, score=18, lives=1} has 1 lives and 18 points with hand [TEN of CLUBS, ACE of SPADES, EIGHT of CLUBS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [ACE of DIAMONDS, NINE of SPADES, JACK of DIAMONDS]
+Player Player{Grace, score=20, lives=3} knocks
+-------------------------------------------------
+Round 24
+Player{Grace, score=20, lives=3} has 3 lives and 20 points with hand [TEN of DIAMONDS, QUEEN of DIAMONDS, SEVEN of SPADES]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [NINE of SPADES, JACK of DIAMONDS, ACE of DIAMONDS]
+Player Player{Grace, score=20, lives=3} knocks
+-------------------------------------------------
+Round 25
+Player{Grace, score=20, lives=1} has 1 lives and 20 points with hand [QUEEN of DIAMONDS, SEVEN of SPADES, TEN of DIAMONDS]
+Player{Victor, score=21, lives=3} has 3 lives and 21 points with hand [JACK of DIAMONDS, ACE of DIAMONDS, NINE of SPADES]
+Player Player{Grace, score=20, lives=1} knocks
+-------------------------------------------------
+The winner is Player{Victor, score=21, lives=3}
