@@ -1,7 +1,6 @@
 package edu.guilford;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -34,40 +33,82 @@ public class Main {
         // A stack object representing the discard pile. Cards are added to the top of
         // the stack and removed from the top of the stack.
         Stack<Card> discard = new Stack<>();
-        
+
         Queue<Card> stockpile = new LinkedList<>();
         stockpile.addAll(deck.getCards());
 
         int round = 1;
         while (players.size() > 1) {
             System.out.println("Round " + round);
-            for (Player player : players) {
-
-
-                discard.push(player.discardCard(player.getHand().get(0)));
-
-                if (stockpile.isEmpty()) {
-                    player.addToHand(discard.pop()); //very annoying bug where .get(0) was used instead of .pop() and that somehow meant that the end hand ended up being all duplicates of one card
-                } else {
-                    player.addToHand(stockpile.poll());
+            System.out.println(players); 
+            if(round == 1) {
+                discard.push(stockpile.poll()); 
+                for (Player player : players) {
+                    player.scoreAllSuits();
+                    Card toReplace = player.lowestCard();
+                    if(player.shouldTakeFromDiscard(discard.peek())) {
+                        player.addToHand(discard.pop());
+                        if(!player.shouldPlaceAtBottomOfStockpile(toReplace, stockpile)) { 
+                            discard.add(toReplace);
+                        }
+                    } else {
+                        stockpile.add(toReplace);
+                    }
+                    player.scoreAllSuits();
+                   
+                
                 }
+                }
+            else {
 
+            if(stockpile.isEmpty()) {
+                stockpile.addAll(discard);
+                 discard.push(stockpile.poll());
+            }
+            boolean noKnock = true;
+            Player knocked = null;
+            if(noKnock)
+            {
+            for (Player player : players) {
                 player.scoreAllSuits();
 
-                System.out.println(player + " has " + player.getLives() + " lives and " + player.getScore() + " points with hand " + player.getHand()); 
-
+                if(player.shouldKnock() && noKnock == true) { 
+                    knocked = player;
+                    noKnock = false;
+                    continue;
+                }
+                Card toReplace = player.lowestCard();
+                if(player.shouldTakeFromDiscard(discard.peek())) {
+                    player.addToHand(discard.pop());
+                    if(!player.shouldPlaceAtBottomOfStockpile(toReplace, stockpile)) { 
+                        discard.add(toReplace);
+                    }
+                } else {
+                    stockpile.add(toReplace);
+                }
+                player.scoreAllSuits();
+                }
             }
 
-            System.out.println("Player " + players.get(0) + " knocks"); 
-            knock(players, players.get( 0));
+            if (knocked != null) {
+                knock(players, knocked);
+            }
+            }
             // each round, players removed if they have 0 lives
             removePlayers(players);
             round++;
-            //print out a big demarkation line 
-            System.out.println("-------------------------------------------------"); 
+            // print out a big demarkation line
+            System.out.println("-------------------------------------------------");
         }
 
+    if(players.isEmpty())
+
+    {
+        System.out.println("No players left");
+    }else
+    {
         System.out.println("The winner is " + players.get(0));
+    }
 
     }
 
