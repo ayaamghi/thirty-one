@@ -47,6 +47,12 @@ public class Player {
         hand.add(card);
     }
 
+    /***
+     * Change lives based off of scores from the game
+     * @param scores
+     * @param didKnock
+     * @param contains31
+     */
     public void changeLives(HashMap<Integer, Player> scores, boolean didKnock, boolean contains31) {
         if (contains31 && score != 31) {
             lives = 0;
@@ -135,6 +141,11 @@ public class Player {
         return null;
     }
 
+    /***
+     * Score all suits in a hand
+     * @param hand
+     * @return
+     */
     public HashMap<Card.Suit, Integer> scoreAllSuits(ArrayList<Card> hand) {
         HashMap<Card.Suit, Integer> scores = new HashMap<>();
         scores.put(Card.Suit.SPADES, 0);
@@ -148,6 +159,10 @@ public class Player {
         return scores;
     }
 
+    /***
+     * ONly method that actually changes the values of the player
+     * 
+     */
     public void scoreAllSuits() {
         scoresInHand = scoreAllSuits(hand);
         score = Collections.max(scoresInHand.values());
@@ -192,6 +207,11 @@ public class Player {
     // is large, put it at bottom of stockpile, if the card is bad put it on the
     // discard pile
 
+    /***
+     * Check if the card is higher then the lowest card of the highest scoring suit
+     * @param card
+     * @return true if true 
+     */
     public boolean isThisCardHigherThenLowestOfHighSuit(Card card) {
 
         // get the lowest rank of the highest suit
@@ -202,6 +222,10 @@ public class Player {
         return false;
     }
 
+    /***
+     * Get lowest rank highest suit through .stream() and .min()
+     * @return card 
+     */
     public Card lowestRankHighestSuit() {
         return hand.stream()
                 .filter(c -> c.getSuit() == highScoreSuit)
@@ -209,12 +233,23 @@ public class Player {
                 .orElse(null);
     }
 
+    /***
+     * Returns lowest card in general 
+     * @return
+     */
     public Card lowestCard() {
         return hand.stream()
                 .min((c1, c2) -> Integer.compare(c1.getRank().getValue(), c2.getRank().getValue()))
                 .orElse(null);
     }
 
+    /***
+     * Check if the card in the discard pile is worth taking 
+     * 
+     * @param discard
+     * @return true if the card is worth taking
+     * @see #isThisCardHigherThenLowestOfHighSuit(Card)
+     */
     public boolean shouldTakeFromDiscard(Card discard) {
         if (isThisCardHigherThenLowestOfHighSuit(discard)) {
             return true;
@@ -224,11 +259,14 @@ public class Player {
         return false;
     }
 
+    /***
+     * Check if the card should be placed at the bottom of the stockpile
+     * @return true if the card should be placed at the bottom of the stockpile
+     * @see #isThisCardHigherThenLowestOfHighSuit(Card)
+     * 
+     */
     public boolean shouldPlaceAtBottomOfStockpile(Card toDiscard, Queue<Card> stockpile) {
-        if (isThisCardHigherThenLowestOfHighSuit(toDiscard) && stockpile.size() > 1) {
-            return true;
-        }
-        return false;
+        return isThisCardHigherThenLowestOfHighSuit(toDiscard) && stockpile.size() > 1;
     }
 
 

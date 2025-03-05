@@ -112,6 +112,10 @@ public class Main {
 
     }
 
+    /***
+     * Removes players using Iterator to avoid ConcurrentModificationException
+     * @param players
+     */
     private static void removePlayers(ArrayList<Player> players) {
         Iterator<Player> iterator = players.iterator();
         while (iterator.hasNext()) {
@@ -122,6 +126,11 @@ public class Main {
         }
     }
 
+    /***
+     * Knock method, calculates scores and changes lives
+     * @param players
+     * @param knocked
+     */
     private static void knock(ArrayList<Player> players, Player knocked) {
 
         HashMap<Integer, Player> scores = new HashMap<>();
